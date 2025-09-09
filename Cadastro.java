@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Cadastro {
+//    Comentario vini
     String nome;
     int idade;
     Scanner teclado = new Scanner(System.in);
